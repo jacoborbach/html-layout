@@ -1,0 +1,62 @@
+* {
+    background-color: white;
+}
+
+.blackBoxContainer {
+    margin-top: 6vh;
+    border-style: solid;
+    padding: 2vh;
+}
+
+#purpleBox {
+    background-color: purple;
+    float:left;
+    margin-top: 10vh;
+    margin-right: 10vh;
+    height: 16vh;
+    padding: 2vh;
+}
+
+#greenSquare {
+    background-color: green;
+    height: 30vh;
+    width: 60vh;
+    margin-left: 8vh;
+}
+
+#circle {
+    background-color: rgb(85, 180, 243);
+    border-radius: 50%;
+    height: 30vh;
+    width: 30vh;
+    float: right;
+    margin-right: 35%;
+    margin-bottom: 10%
+}
+
+.blackBoxContainer div {
+    display: inline-block;
+}
+
+#dotted {
+    border-style: dotted;
+    padding: 8vh;
+}
+
+#yellowBox {
+    background-color: rgb(255, 252, 204);
+    height: 10vh;
+    margin: 1vh;
+    box-shadow: 10px 10px 5px black;
+}
+
+#helloMessage {
+    margin: auto;
+    width: 60%;
+    border: 0.1vh solid grey;
+    padding: 8vh;
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    font-family: Arial;
+}
