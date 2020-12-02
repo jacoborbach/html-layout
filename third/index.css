@@ -1,0 +1,45 @@
+#greyBox {
+    width: 100%;
+    height: 15vh;
+    background-color: grey;
+}
+
+#babyBlueBox {
+    background-color: blue;
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 60px;
+    width: 60px;
+}
+
+p {
+    text-align: center;
+    color: grey;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+
+#blueBox {
+    width: 100%;
+    height: 15vh;
+    background-color: blue;
+}
+
+#turqoiseBox {
+    width: 100%;
+    height: 15vh;
+    background-color: turquoise;
+}
+
+#greenBox {
+    width: 100%;
+    height: 15vh;
+    background-color: yellowgreen;
+}
+
+#yellowBox {
+    width: 100%;
+    height: 15vh;
+    background-color: yellow;
+}
